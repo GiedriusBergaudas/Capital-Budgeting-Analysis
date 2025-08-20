@@ -41,5 +41,5 @@ Compared scenarios to recommend the optimal investment
 
 ## Results
 
-![LinkedIn Excel Screenshot]Capital_budgeting.png
+![LinkedIn Excel Screenshot](Capital_budgeting.png)
 
