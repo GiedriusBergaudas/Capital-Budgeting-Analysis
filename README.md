@@ -40,7 +40,7 @@ Given [raw financial data](Capital_Budgeting/raw_file.xlsx) I **evaluated two de
 
 - Projected cash flows and costs using raw financial data
 
-- Performed sensitivyti analysis and compared scenarios to recommend the optimal investment
+- Performed sensitivity analysis and compared scenarios to recommend the optimal investment
 
 ## Results
 
