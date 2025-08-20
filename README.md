@@ -1,7 +1,7 @@
-# Capital Budgeting: Startup Investment Scenarios
+# Capital Budgeting
 ## Project Overview
 
-Given raw financial data I **evaluated two development scenarios** for a startup producing smart home gadgets **to determine the most financially viable** option.
+Given raw financial data I **evaluated two development scenarios to determine the most financially viable** option.
 
 ## Scenarios
 
