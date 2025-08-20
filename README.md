@@ -17,6 +17,7 @@ Given raw financial data I **evaluated two development scenarios to determine th
 
 **Duration of the project:** 2 years.
 
+
 **Assumptions for the 2nd scenario:**
 
 **Project:** will carry out active marketing activities and develop a digital product.
