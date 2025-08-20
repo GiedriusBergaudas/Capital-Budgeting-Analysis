@@ -33,11 +33,11 @@ Given raw financial data I **evaluated two development scenarios to determine th
 
 ## Actions Taken
 
-Calculated NPV and IRR and Payback Period for both scenarios
+- Calculated NPV and IRR and Payback Period for both scenarios
 
-Projected cash flows and costs using raw financial data
+- Projected cash flows and costs using raw financial data
 
-Compared scenarios to recommend the optimal investment
+- Performed sensitivyti analysis and compared scenarios to recommend the optimal investment
 
 ## Results
 
