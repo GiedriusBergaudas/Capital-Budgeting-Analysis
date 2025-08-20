@@ -39,4 +39,4 @@ Projected cash flows and costs using raw financial data
 
 Compared scenarios to recommend the optimal investment
 
-![Screenshot of analysis](linkedin excl.png)
+[Screenshot of analysis](linkedin excl.png)
