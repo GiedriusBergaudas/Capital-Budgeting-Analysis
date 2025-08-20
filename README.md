@@ -1,39 +1,33 @@
 # Capital Budgeting: Startup Investment Scenarios
 ## Project Overview
 
-Evaluated two development scenarios for a startup producing smart home gadgets to determine the most financially viable option.
-
-## Given
-
-**Raw financial data:** cash flow, balance sheet, and income statement
-
-**Company growth:** 9 employees (2016) → 60 employees (2017)
-
-**Two investment scenarios**
+Given raw financial data I **evaluated two development scenarios** for a startup producing smart home gadgets **to determine the most financially viable** option.
 
 ## Scenarios
 
 **Assumptions for the 1st scenario:**
-Project: to build a factory, including buildings and machine tools required for production.
 
-Increase in sales: It is planned that after the implementation of the project, the sales volumes will increase by 50% from the current ones and should continue to increase by 10% annually.
+**Project:** to build a factory, including buildings and machine tools required for production.
 
-Cost: An additional 10 people with an average salary of the company will be needed to service the new production capacity.
+**Increase in sales:** It is planned that after the implementation of the project, the sales volumes will increase by 50% from the current ones and should continue to increase by 10% annually.
 
-Costs: Marketing budgets would need to be further adjusted to maintain projected sales growth.
+**Cost:** An additional 10 people with an average salary of the company will be needed to service the new production capacity.
 
-Duration of the project: 2 years.
+**Costs:** Marketing budgets would need to be further adjusted to maintain projected sales growth.
+
+**Duration of the project:** 2 years.
 
 **Assumptions for the 2nd scenario:**
-Project: will carry out active marketing activities and develop a digital product.
 
-Increase in sales: Sales are expected to grow by 30% during the campaign every year. In subsequent periods, growth is expected to fall to 15%.
+**Project:** will carry out active marketing activities and develop a digital product.
 
-Cost: The provision and development of services will require the hiring of 10 people with 2x the average salary of the company, starting in the first year.
+**Increase in sales:** Sales are expected to grow by 30% during the campaign every year. In subsequent periods, growth is expected to fall to 15%.
 
-Costs: After the campaign ends, advertising budgets are expected to fall to € 1 million per year.
+**Cost:** The provision and development of services will require the hiring of 10 people with 2x the average salary of the company, starting in the first year.
 
-Duration of the project: 2 years.
+**Costs:** After the campaign ends, advertising budgets are expected to fall to € 1 million per year.
+
+**Duration of the project:** 2 years.
 
 ## Actions Taken
 
