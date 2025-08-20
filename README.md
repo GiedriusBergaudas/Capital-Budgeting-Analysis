@@ -1,7 +1,7 @@
 # Capital Budgeting
 ## Project Overview
 
-Given raw financial data I **evaluated two development scenarios to determine the best financial option.**
+Given [raw financial data](Capital_Budgeting/raw_file.xlsx) I **evaluated two development scenarios to determine the best financial option.**
 
 ## Tools Used
 - **Microsoft Excel** 
