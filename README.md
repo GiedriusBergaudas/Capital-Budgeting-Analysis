@@ -38,3 +38,5 @@ Calculated NPV and IRR and Payback Period for both scenarios
 Projected cash flows and costs using raw financial data
 
 Compared scenarios to recommend the optimal investment
+
+![Screenshot of analysis](linkedin excl.png)
