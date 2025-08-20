@@ -3,6 +3,9 @@
 
 Given raw financial data I **evaluated two development scenarios to determine the best financial option.**
 
+## Tools Used
+- **Microsoft Excel** 
+
 ## Scenarios
 
 ### Assumptions for the 1st scenario
