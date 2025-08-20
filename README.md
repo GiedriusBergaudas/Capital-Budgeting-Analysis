@@ -39,5 +39,7 @@ Projected cash flows and costs using raw financial data
 
 Compared scenarios to recommend the optimal investment
 
-![LinkedIn Excel Screenshot](linkedin%20excl.png)
+## Results
+
+![LinkedIn Excel Screenshot]Capital_budgeting.png
 
