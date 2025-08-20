@@ -5,7 +5,7 @@ Given raw financial data I **evaluated two development scenarios to determine th
 
 ## Scenarios
 
-### Assumptions for the 1st scenario:
+### Assumptions for the 1st scenario
 
 **Project:** to build a factory, including buildings and machine tools required for production.
 
@@ -19,7 +19,7 @@ Given raw financial data I **evaluated two development scenarios to determine th
 
 
 
-### Assumptions for the 2nd scenario:
+### Assumptions for the 2nd scenario
 
 **Project:** will carry out active marketing activities and develop a digital product.
 
@@ -33,7 +33,7 @@ Given raw financial data I **evaluated two development scenarios to determine th
 
 ## Actions Taken
 
-Calculated NPV and IRR for both scenarios
+Calculated NPV and IRR and Payback Period for both scenarios
 
 Projected cash flows and costs using raw financial data
 
