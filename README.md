@@ -36,7 +36,7 @@ Given [raw financial data](Capital_Budgeting/raw_file.xlsx) I **evaluated two de
 
 ## Actions Taken
 
-- Calculated NPV and IRR and Payback Period for both scenarios
+- Calculated NPV, IRR and Payback Period for both scenarios
 
 - Projected cash flows and costs using raw financial data
 
