@@ -44,7 +44,7 @@ Given [raw financial data](Capital_Budgeting/raw_file.xlsx) I **evaluated two de
 
 ## Results
 
-![image](https://i.imgur.com/7V0PF7s.png)
+![image](https://i.imgur.com/SxwQm6o.png)
 
 - **I decided to choose 8 years evalution to see the full financial impact and long term results of the projects.** This period helps show true profitability and payback time.
 - **The 1st scenario (manufacturing expansion)** shows a **positive NPV of $ 2.2M** and an IRR of 19%, indicating strong financial viability. **This scenario should be approved.**
